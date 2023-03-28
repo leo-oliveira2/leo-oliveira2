@@ -1,8 +1,8 @@
 ### SUP!
 
 
-- 🌱 I’m currently learning C# for Unity, C and PHP.
-- 📫 How to reach me: lucatemex@gmail.com
+- 🌱 I’m currently learning Java, Python, C and Genexus.
+- 📫 How to reach me: leonardo.heinen04@edu.pucrs.br
 
 <div>
    <a href="github.com/leo-oliveira-2">
