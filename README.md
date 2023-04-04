@@ -4,6 +4,7 @@
      <img height= "167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-oliveira2&layout=compact&theme=github_dark"/>
       </div>
    
-   -- SKILLS 🚀 
+   SKILLS 🚀 
    
    ![BLOG](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+   ![BLOG](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
