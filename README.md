@@ -9,7 +9,7 @@
 <div>
    <a href="https://github.com/leo-oliveira2">
      <img height= "167em" src="https://github-readme-stats.vercel.app/api?username=leo-oliveira2&show_icons=true&theme=github_dark"/>
-     <img height= "167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-oliveira2&layout=compact&theme=github_dar"/>
+     <img height= "167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-oliveira2&layout=compact&theme=github_dark"/>
       </div>
    
   
