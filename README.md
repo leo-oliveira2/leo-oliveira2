@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Sesc-RS](https://www.sesc-rs.com.br/)
 
-- 🌱 I’m currently learning **Genexus, Java, C, python and Assembly**
+- 🌱 I’m currently learning **dotNET, Genexus, Java, C, python and Assembly**
 
 - 📫 How to reach me **heinen126@gmail.com**
 
