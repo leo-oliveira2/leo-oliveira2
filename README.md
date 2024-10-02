@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Sesc-RS](https://www.sesc-rs.com.br/)
 
-- 🌱 I’m currently learning **dotNET - C#, Java, C, Python, ASP.NET MVC**
+- 🌱 I’m currently learning **JavaScript, TypeScript and Angular**
 
 - 📫 How to reach me **heinen126@gmail.com**
 
