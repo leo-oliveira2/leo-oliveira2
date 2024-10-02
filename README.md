@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/leo_heinen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leo_heinen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leonardo oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo oliveira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leonardo-oliveira-47879a169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo oliveira" height="30" width="40" /></a>
 <a href="https://fb.com/leonardo heinen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leonardo heinen" height="30" width="40" /></a>
 <a href="https://instagram.com/leo.heinen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leo.heinen" height="30" width="40" /></a>
 </p>
