@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ShuffleUp](https://shuffleup.com/)
 
-- 🌱 I’m currently learning **JavaScript, TypeScript and Angular**
+- 🌱 I’m currently learning **SpringWebFlux**
 
 - 📫 How to reach me **heinen126@gmail.com**
 
