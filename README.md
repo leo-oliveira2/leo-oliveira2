@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leo-oliveira2&label=Profile%20views&color=0e75b6&style=flat" alt="leo-oliveira2" /> </p>
 
-- 🔭 I’m currently working on [Sesc-RS](https://www.sesc-rs.com.br/)
+- 🔭 I’m currently working on [ShuffleUp](https://shuffleup.com/)
 
 - 🌱 I’m currently learning **JavaScript, TypeScript and Angular**
 
